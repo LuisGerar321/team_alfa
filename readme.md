@@ -1,7 +1,7 @@
 Team Alfa
 
-Cesar
 Julio
+Cesar
 Paulina
 -------
 Luis
