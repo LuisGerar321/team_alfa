@@ -7,9 +7,10 @@
 int arr[len] = {3,1,10}; 
 
 int main(){
-    int indexMax = max(arr);
+    int indexMax = max(arr, len);
     /// otras llamadas;
     printf("max value:  %d\n", arr[indexMax]);
+    int a = 5;
 
     return 0;
 }
